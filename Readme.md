@@ -336,7 +336,7 @@ cd fine-tuning-lora-dpo
 
 **Ishan Tarkas**  
 B.Tech AI & Data Science — K.J. Somaiya Institute of Technology  
-CGPA: 9.23
+CGPA: 9.61
 
 [![GitHub](https://img.shields.io/badge/GitHub-Ishan--debugg-black?style=flat-square&logo=github)](https://github.com/Ishan-debugg)
 
