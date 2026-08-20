@@ -2,10 +2,6 @@
 ### Parameter-Efficient Fine-Tuning with QLoRA on a Single GPU
 
 <p align="center">
-  <img src="assets/phase2_results.png" alt="Training Results" width="800"/>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Model-Qwen2.5--1.5B--Instruct-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Method-QLoRA%20r%3D16-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/GPU-Tesla%20T4%2016GB-green?style=for-the-badge" />
