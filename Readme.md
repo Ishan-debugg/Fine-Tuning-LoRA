@@ -85,10 +85,6 @@ Natural Language Input
 
 ### Phase 1 — Data Curation
 
-<p align="center">
-  <img src="assets/curation_report.png" alt="Curation Pipeline" width="700"/>
-</p>
-
 **Source:** `Salesforce/xlam-function-calling-60k` (60,000 raw examples)
 
 **Curation pipeline — 8 filters applied sequentially:**
