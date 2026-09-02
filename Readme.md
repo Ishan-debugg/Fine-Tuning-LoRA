@@ -56,7 +56,7 @@ fine-tuning-lora-dpo/
 
 ---
 
-## 🎯 Project Overview
+## 🎯 Project Overview.
 
 Most LLM deployments fail not because the model lacks knowledge, but because it produces **inconsistent output formats** — valid JSON one call, malformed the next. This project proves that a 1.5B parameter model can achieve **100% JSON validity** on structured tool-calling through targeted fine-tuning, using only a single T4 GPU in under 20 minutes.
 
@@ -68,7 +68,7 @@ Before fine-tuning, even with perfect prompts the base model produced:
 - Inconsistent date formats within the same session
 - ~80% JSON valid rate at best — inconsistent across input types
 
-### The Fine-Tuning Solution
+### The Fine-Tuning Solution.
 
 ```
 Natural Language Input
@@ -119,7 +119,7 @@ QLoRA:              Frozen 4-bit weights + LoRA adapters
                     ~3.6GB VRAM used ← fits easily on T4
 ```
 
-#### LoRA Architecture
+#### LoRA Architecture and Adaptive version
 
 ```
 Original weight W (frozen, 4-bit NF4 quantized)
