@@ -20,7 +20,7 @@
 | **Function Name Accuracy** | 56% | 38% | -18% ⚠️ |
 | **Exact Match Rate** | 5% | **28%** | +23% ✅ |
 
-> **Key Finding:** SFT successfully taught the model perfect JSON structure and schema adherence. Function name accuracy regression identified as the target for DPO alignment — the model learned *how* to format but needs preference tuning to learn *which* function to call.
+> **Key Finding:** SFT model with perfect JSON structure and schema adherence. Function name accuracy regression identified as the target for DPO alignment — the model learned *how* to format but needs preference tuning to learn *which* function to call.
 
 ---
 
